@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #35353F;
+    padding: 3rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 4rem;
+    color: #45C398;
+    font-family: cursive;
+}
+
+.outerDiv{
+    padding: 7rem;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+}
+
+h3 {
+    font-family: cursive;
+    font-size: 1.5rem;
+    padding-bottom: 1rem;
+    color: #45C398;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+p, p a{
+    color: #45c399cc;
+}
+
